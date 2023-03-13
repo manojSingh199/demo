@@ -1,283 +1,283 @@
 #EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="ENTERTAINMENT",Sony HD
-http://192.168.1.7:3500/getm3u8/291/master.m3u8
+http://localhost:3500/getm3u8/291/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="ENTERTAINMENT",Sony SAB HD
-http://192.168.1.7:3500/getm3u8/471/master.m3u8
+http://localhost:3500/getm3u8/471/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="ENTERTAINMENT",Sony SAB
-http://192.168.1.7:3500/getm3u8/154/master.m3u8
+http://localhost:3500/getm3u8/154/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="ENTERTAINMENT",And TV HD
-http://192.168.1.7:3500/getm3u8/472/master.m3u8
+http://localhost:3500/getm3u8/472/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="ENTERTAINMENT",Zee TV HD
-http://192.168.1.7:3500/getm3u8/167/master.m3u8
+http://localhost:3500/getm3u8/167/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="ENTERTAINMENT",Colors HD
-http://192.168.1.7:3500/getm3u8/144/master.m3u8
+http://localhost:3500/getm3u8/144/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="ENTERTAINMENT",Investigation Discovery
-http://192.168.1.7:3500/getm3u8/527/master.m3u8
+http://localhost:3500/getm3u8/527/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" group-title="ENTERTAINMENT",Arre HD
-http://192.168.1.7:3500/getm3u8/963/master.m3u8
+http://localhost:3500/getm3u8/963/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="ENTERTAINMENT",Colors Infinity HD
-http://192.168.1.7:3500/getm3u8/1158/master.m3u8
+http://localhost:3500/getm3u8/1158/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="ENTERTAINMENT",Comedy Central HD
-http://192.168.1.7:3500/getm3u8/1157/master.m3u8
+http://localhost:3500/getm3u8/1157/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="MOVIES",Sony Max HD
-http://192.168.1.7:3500/getm3u8/476/master.m3u8
+http://localhost:3500/getm3u8/476/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="MOVIES",Zee Cinema HD
-http://192.168.1.7:3500/getm3u8/165/master.m3u8
+http://localhost:3500/getm3u8/165/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="MOVIES",Zee Cinema
-http://192.168.1.7:3500/getm3u8/484/master.m3u8
+http://localhost:3500/getm3u8/484/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="MOVIES",And Pictures HD
-http://192.168.1.7:3500/getm3u8/185/master.m3u8
+http://localhost:3500/getm3u8/185/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="MOVIES",B4U Movies
-http://192.168.1.7:3500/getm3u8/182/master.m3u8
+http://localhost:3500/getm3u8/182/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="MOVIES",Sony MAX2
-http://192.168.1.7:3500/getm3u8/483/master.m3u8
+http://localhost:3500/getm3u8/483/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="MOVIES",Colors Cineplex
-http://192.168.1.7:3500/getm3u8/1477/master.m3u8
+http://localhost:3500/getm3u8/1477/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="MOVIES",Sony Pix HD
-http://192.168.1.7:3500/getm3u8/762/master.m3u8
+http://localhost:3500/getm3u8/762/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="MOVIES",Sony Max SD
-http://192.168.1.7:3500/getm3u8/289/master.m3u8
+http://localhost:3500/getm3u8/289/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS",Ten 1 HD
-http://192.168.1.7:3500/getm3u8/162/master.m3u8
+http://localhost:3500/getm3u8/162/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",Ten 1
-http://192.168.1.7:3500/getm3u8/514/master.m3u8
+http://localhost:3500/getm3u8/514/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS",Ten 2 HD
-http://192.168.1.7:3500/getm3u8/891/master.m3u8
+http://localhost:3500/getm3u8/891/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS",Ten 2
-http://192.168.1.7:3500/getm3u8/523/master.m3u8
+http://localhost:3500/getm3u8/523/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS",Ten 3 HD
-http://192.168.1.7:3500/getm3u8/892/master.m3u8
+http://localhost:3500/getm3u8/892/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SPORTS",Ten 3
-http://192.168.1.7:3500/getm3u8/524/master.m3u8
+http://localhost:3500/getm3u8/524/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS",Sony Six HD
-http://192.168.1.7:3500/getm3u8/155/master.m3u8
+http://localhost:3500/getm3u8/155/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SPORTS",Sony Six SD
-http://192.168.1.7:3500/getm3u8/525/master.m3u8
+http://localhost:3500/getm3u8/525/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="NEWS",Zee Business
-http://192.168.1.7:3500/getm3u8/657/master.m3u8
+http://localhost:3500/getm3u8/657/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="NEWS",CNBC Awaaz
-http://192.168.1.7:3500/getm3u8/190/master.m3u8
+http://localhost:3500/getm3u8/190/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="KIDS",Sonic Hindi
-http://192.168.1.7:3500/getm3u8/815/master.m3u8
+http://localhost:3500/getm3u8/815/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="KIDS",Discovery Kids 2
-http://192.168.1.7:3500/getm3u8/554/master.m3u8
+http://localhost:3500/getm3u8/554/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="KIDS",Nick Hindi
-http://192.168.1.7:3500/getm3u8/545/master.m3u8
+http://localhost:3500/getm3u8/545/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="KIDS",CN HD+ English
-http://192.168.1.7:3500/getm3u8/1079/master.m3u8
+http://localhost:3500/getm3u8/1079/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="KIDS",Cartoon Network Hindi
-http://192.168.1.7:3500/getm3u8/816/master.m3u8
+http://localhost:3500/getm3u8/816/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="KIDS",Nick HD+
-http://192.168.1.7:3500/getm3u8/1226/master.m3u8
+http://localhost:3500/getm3u8/1226/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="KIDS",Pogo Hindi
-http://192.168.1.7:3500/getm3u8/559/master.m3u8
+http://localhost:3500/getm3u8/559/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="KIDS",Nickelodeon
-http://192.168.1.7:3500/getm3u8/547/master.m3u8
+http://localhost:3500/getm3u8/547/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="KIDS",Nick Junior
-http://192.168.1.7:3500/getm3u8/544/master.m3u8
+http://localhost:3500/getm3u8/544/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="KIDS",Nickelodeon Jr.
-http://192.168.1.7:3500/getm3u8/548/master.m3u8
+http://localhost:3500/getm3u8/548/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="KIDS",Sony Yay Hindi
-http://192.168.1.7:3500/getm3u8/872/master.m3u8
+http://localhost:3500/getm3u8/872/master.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="KIDS",Animax 
-http://192.168.1.7:3500/getm3u8/2258/master.m3u8
+http://localhost:3500/getm3u8/2258/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="ENTERTAINMENT",Discovery HD World
-http://192.168.1.7:3500/getm3u8/463/master.m3u8
+http://localhost:3500/getm3u8/463/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="ENTERTAINMENT",Discovery
-http://192.168.1.7:3500/getm3u8/575/master.m3u8
+http://localhost:3500/getm3u8/575/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="ENTERTAINMENT",Animal Planet HD World
-http://192.168.1.7:3500/getm3u8/286/master.m3u8
+http://localhost:3500/getm3u8/286/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="ENTERTAINMENT",Animal Planet Hindi
-http://192.168.1.7:3500/getm3u8/566/master.m3u8
+http://localhost:3500/getm3u8/566/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="ENTERTAINMENT",Discovery Science
-http://192.168.1.7:3500/getm3u8/568/master.m3u8
+http://localhost:3500/getm3u8/568/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="ENTERTAINMENT",History TV18 HD
-http://192.168.1.7:3500/getm3u8/578/master.m3u8
+http://localhost:3500/getm3u8/578/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="ENTERTAINMENT",Sony BBC Earth HD
-http://192.168.1.7:3500/getm3u8/852/master.m3u8
+http://localhost:3500/getm3u8/852/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="ENTERTAINMENT",Discovery Turbo
-http://192.168.1.7:3500/getm3u8/541/master.m3u8
+http://localhost:3500/getm3u8/541/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="ENTERTAINMENT",Travel XP HD
-http://192.168.1.7:3500/getm3u8/164/master.m3u8
+http://localhost:3500/getm3u8/164/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="ENTERTAINMENT",Travel XP HD Hindi
-http://192.168.1.7:3500/getm3u8/562/master.m3u8
+http://localhost:3500/getm3u8/562/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" group-title="ENTERTAINMENT",Sony BBC Earth SD
-http://192.168.1.7:3500/getm3u8/823/master.m3u8
+http://localhost:3500/getm3u8/823/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="MUSIC",MTV HD Plus
-http://192.168.1.7:3500/getm3u8/1145/master.m3u8
+http://localhost:3500/getm3u8/1145/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="MUSIC",MTV
-http://192.168.1.7:3500/getm3u8/248/master.m3u8
+http://localhost:3500/getm3u8/248/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC",BINDAS
 http://103.151.43.102:8801/play/a011
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg" group-title="MUSIC",9XM
-http://192.168.1.7:3500/getm3u8/587/master.m3u8
+http://localhost:3500/getm3u8/587/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="MUSIC",E 24
-http://192.168.1.7:3500/getm3u8/591/master.m3u8
+http://localhost:3500/getm3u8/591/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="MUSIC",MTV Beats HD
-http://192.168.1.7:3500/getm3u8/753/master.m3u8
+http://localhost:3500/getm3u8/753/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="MUSIC",MTV Beats
-http://192.168.1.7:3500/getm3u8/1400/master.m3u8
+http://localhost:3500/getm3u8/1400/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="MUSIC",B4U Music
-http://192.168.1.7:3500/getm3u8/183/master.m3u8
+http://localhost:3500/getm3u8/183/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png" group-title="MUSIC",Zoom
-http://192.168.1.7:3500/getm3u8/592/master.m3u8
+http://localhost:3500/getm3u8/592/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="MUSIC",Mastiii
-http://192.168.1.7:3500/getm3u8/584/master.m3u8
+http://localhost:3500/getm3u8/584/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="MUSIC",Zing
-http://192.168.1.7:3500/getm3u8/585/master.m3u8
+http://localhost:3500/getm3u8/585/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="MUSIC",Music India
-http://192.168.1.7:3500/getm3u8/250/master.m3u8
+http://localhost:3500/getm3u8/250/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="MUSIC",9X Jalwa
-http://192.168.1.7:3500/getm3u8/440/master.m3u8
+http://localhost:3500/getm3u8/440/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="MOVIES",Bflix Movies
-http://192.168.1.7:3500/getm3u8/1266/master.m3u8
+http://localhost:3500/getm3u8/1266/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="AARTI",Darshan 24
-http://192.168.1.7:3500/getm3u8/611/master.m3u8
+http://localhost:3500/getm3u8/611/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png" group-title="AARTI",Divya TV
-http://192.168.1.7:3500/getm3u8/801/master.m3u8
+http://localhost:3500/getm3u8/801/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="MOVIES",Sony Pix SD
-http://192.168.1.7:3500/getm3u8/1530/master.m3u8
+http://localhost:3500/getm3u8/1530/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="ENTERTAINMENT",Colors Infinity SD
-http://192.168.1.7:3500/getm3u8/1325/master.m3u8
+http://localhost:3500/getm3u8/1325/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="ENTERTAINMENT",Comedy Central SD
-http://192.168.1.7:3500/getm3u8/1327/master.m3u8
+http://localhost:3500/getm3u8/1327/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="ENTERTAINMENT",Sony SD
-http://192.168.1.7:3500/getm3u8/1396/master.m3u8
+http://localhost:3500/getm3u8/1396/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="ENTERTAINMENT",History TV18 SD
-http://192.168.1.7:3500/getm3u8/1471/master.m3u8
+http://localhost:3500/getm3u8/1471/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="AARTI",Aastha
-http://192.168.1.7:3500/getm3u8/175/master.m3u8
+http://localhost:3500/getm3u8/175/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" group-title="AARTI",Sanskar
-http://192.168.1.7:3500/getm3u8/288/master.m3u8
+http://localhost:3500/getm3u8/288/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="AARTI",Disha tv
-http://192.168.1.7:3500/getm3u8/599/master.m3u8
+http://localhost:3500/getm3u8/599/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" group-title="AARTI",Sadhna
-http://192.168.1.7:3500/getm3u8/1838/master.m3u8
+http://localhost:3500/getm3u8/1838/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="AARTI",Arihant TV
-http://192.168.1.7:3500/getm3u8/466/master.m3u8
+http://localhost:3500/getm3u8/466/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png" group-title="AARTI",Satsang TV
-http://192.168.1.7:3500/getm3u8/597/master.m3u8
+http://localhost:3500/getm3u8/597/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png" group-title="AARTI",Shubh TV
-http://192.168.1.7:3500/getm3u8/828/master.m3u8
+http://localhost:3500/getm3u8/828/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="AARTI",Aastha Bhajan
-http://192.168.1.7:3500/getm3u8/594/master.m3u8
+http://localhost:3500/getm3u8/594/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="PUNJABI",Zee Punjabi HP Haryana
-http://192.168.1.7:3500/getm3u8/654/master.m3u8
+http://localhost:3500/getm3u8/654/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" group-title="PUNJABI",PTC News
-http://192.168.1.7:3500/getm3u8/1170/master.m3u8
+http://localhost:3500/getm3u8/1170/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="PUNJABI",PTC Punjabi
-http://192.168.1.7:3500/getm3u8/1171/master.m3u8
+http://localhost:3500/getm3u8/1171/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="PUNJABI",PTC Chak De
-http://192.168.1.7:3500/getm3u8/1172/master.m3u8
+http://localhost:3500/getm3u8/1172/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="PUNJABI",PTC Punjabi Gold
-http://192.168.1.7:3500/getm3u8/1190/master.m3u8
+http://localhost:3500/getm3u8/1190/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="PUNJABI",PTC Music
-http://192.168.1.7:3500/getm3u8/1189/master.m3u8
+http://localhost:3500/getm3u8/1189/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="PUNJABI",PTC Dhol TV
-http://192.168.1.7:3500/getm3u8/1188/master.m3u8
+http://localhost:3500/getm3u8/1188/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="MUSIC",9X Tashan
-http://192.168.1.7:3500/getm3u8/732/master.m3u8
+http://localhost:3500/getm3u8/732/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="PUNJABI",Chardikla Time TV
-http://192.168.1.7:3500/getm3u8/517/master.m3u8
+http://localhost:3500/getm3u8/517/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="PUNJABI",Pitaara
-http://192.168.1.7:3500/getm3u8/946/master.m3u8
+http://localhost:3500/getm3u8/946/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="PUNJABI",DD Punjabi
-http://192.168.1.7:3500/getm3u8/715/master.m3u8
+http://localhost:3500/getm3u8/715/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png" group-title="PUNJABI",PTC Simran
-http://192.168.1.7:3500/getm3u8/1191/master.m3u8
+http://localhost:3500/getm3u8/1191/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="MOVIES",UTV ACTION
 http://212.224.84.217:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=DenverIPTV[User-agent=REDLINECLIENT]
